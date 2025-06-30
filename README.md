@@ -1,8 +1,9 @@
 <p align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31ps3jmeh7qhiou7x3soarahez7y&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31ps3jmeh7qhiou7x3soarahez7y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=4e59b1&bar_color_cover=false"/>
-</a>
+  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31ps3jmeh7qhiou7x3soarahez7y&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31ps3jmeh7qhiou7x3soarahez7y&theme=default&cover_image=false"/>
+  </a>
 </p>
+
 
 <h2 align="start">
 Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px">
@@ -13,11 +14,9 @@ A software Engineer
  </h3>
 
 <p align="start">
-  👋 Hi, I'm <b>Ardial</b> — a passionate software engineer who loves turning ideas into reality with code! 🚀<br/>
-  I thrive on learning new technologies, building innovative solutions, and embracing every challenge as an opportunity to grow.<br/>
-  Whether it's front-end magic, back-end logic, or exploring the latest tech trends, I'm always eager to create, collaborate, and make an impact.<br/>
-  Let's connect and build something amazing together!
+  👋 Hey, I'm <b>Ardial</b> — I turn caffeine into code and weird ideas into working apps. Always debugging life and shipping cool stuff. Let’s build magic!
 </p>
+
 
 <h2 align="start">Technology Stacks</h2>
 <p align="start">
