@@ -14,7 +14,7 @@ A software Engineer
  </h3>
 
 <p align="start">
-  👋 Hey, I'm <b>Ardial</b> — I turn caffeine into code and weird ideas into working apps. Always debugging life and shipping cool stuff. Let’s build magic!
+  👋 Hey, I'm <b>Ardial</b> — I turn caffeine into code and weird ideas into working apps :D. 
 </p>
 
 
