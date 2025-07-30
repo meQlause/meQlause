@@ -72,7 +72,7 @@ Like My Work?
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	  <li><b>OS:</b> Windows 11</li>
-  	  <li><b>Browser: </b> Chrome & Safari</li>
+  	  <li><b>Browser: </b> Chrome</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> Cursor - AI integrated</li>
  	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
