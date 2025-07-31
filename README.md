@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm [Ardial!](https://github.com/meQlause)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/iampavangandhi](https://www.linkedin.com/in/ardial-brian-8a85372b6/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ardial-brian-8a85372b6/))
 
 ### Glad to see you here! 
 👋 Hey there! I’m Ardial — a Software Engineer coding away from sunny Semarang, Indonesia 🇮🇩.
