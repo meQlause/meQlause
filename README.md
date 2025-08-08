@@ -55,7 +55,7 @@ When I’m not hacking on side projects, I’m probably debugging life over a cu
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meQlause&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meQlause&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meQlause&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=15"/>
 </details>
 
 <details>
